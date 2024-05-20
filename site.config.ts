@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kit.Yeung Notion Blog Test',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'nextjs-notion-starter-kit-rouge-one.vercel.app',
   author: 'Kit.Yeung',
 
   // open graph metadata (optional)
